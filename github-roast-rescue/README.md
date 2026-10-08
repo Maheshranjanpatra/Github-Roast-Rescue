@@ -2,7 +2,7 @@
 
 > Analyze your GitHub profile, discover what recruiters may notice, and get an actionable plan to improve it.
 
-🌐 **Live Demo:** https://github-roast-rescue.onrender.com
+🌐 **Live Demo:** https://github-roast-rescue-f.onrender.com
 
 GitHub Roast & Rescue is a GitHub profile auditing tool that analyzes repository quality, developer activity, documentation, project signals, and portfolio presentation to generate a recruiter-readiness score.
 
@@ -261,6 +261,6 @@ Add your preferred license to the repository before publishing the project comme
 
 ### 🌐 Try It Live
 
-**[github-roast-rescue.onrender.com](https://github-roast-rescue.onrender.com)**
+**[github-roast-rescue-f.onrender.com](https://github-roast-rescue-f.onrender.com)**
 
 Analyze your GitHub profile and find out what needs rescuing.
